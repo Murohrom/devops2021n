@@ -6,6 +6,7 @@ pipeline
     
     environment {
         envString = 'true'
+        scannerHome = ""
     }
  
     post {
